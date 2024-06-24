@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>G:\Program Files\Steam\steamapps\common\ROUNDS\ROUNDS_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\core\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="CardChoiceSpawnUniqueCardPatch">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\Pykess-CardChoiceSpawnUniqueCardPatch\CardChoiceSpawnUniqueCardPatch.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassesManagerReborn">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\Root-Classes_Manager_Reborn\ClassesManagerReborn.dll</HintPath>
+    </Reference>
+    <Reference Include="ModdingUtils">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\Pykess-ModdingUtils\ModdingUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="ModsPlus">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\willis81808-ModsPlus\ModsPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Rarity Bundle">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\CrazyCoders-RarityBundle\Rarity Bundle.dll</HintPath>
+    </Reference>
+    <Reference Include="RarityLib">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\Root-RarityLib\RarityLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnboundLib">
+      <HintPath>C:\Users\fireb\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\test\BepInEx\plugins\willis81808-UnboundLib\UnboundLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>G:\Program Files\Steam\steamapps\common\ROUNDS\ROUNDS_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>G:\Program Files\Steam\steamapps\common\ROUNDS\ROUNDS_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
